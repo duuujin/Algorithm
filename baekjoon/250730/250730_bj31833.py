@@ -5,7 +5,7 @@ b = list(map(str,input().split()))
 x =int(''.join(a))
 y =int(''.join(b))
 
-if x < y :s
+if x < y :
     print(x)
 elif x > y :
     print(y)
